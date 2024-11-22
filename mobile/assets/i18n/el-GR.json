@@ -232,7 +232,7 @@
   "download_sucess_android": "Το μέσο έχει ληφθεί στο DCIM/Immich",
   "download_waiting_to_retry": "Αναμονή για επανάληψη",
   "edit_date_time_dialog_date_time": "Ημερομηνία και Ώρα",
-  "edit_date_time_dialog_timezone": "Ζώνη ώρας",
+  "edit_date_time_dialog_timezone": "Ωρική ζώνη",
   "edit_image_title": "Επεξεργασία",
   "edit_location_dialog_title": "Τοποθεσία",
   "error_saving_image": "Σφάλμα: {}",
